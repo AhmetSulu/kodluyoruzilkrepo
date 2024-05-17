@@ -2,6 +2,8 @@
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
+![Adsız](https://github.com/AhmetSulu/kodluyoruzilkrepo/assets/169934423/1a190256-40d5-464d-b0c9-ba7536739d01)
+
 
 ## Installation
 
@@ -27,4 +29,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
